@@ -11,7 +11,7 @@ StaFiHub is a parallel chain developed by StaFi based on the Cosmos SDK. It has 
 200 GB SSD
 4 vCPU
 ```
-# sudo su yazın
+```
 sudo su
 ```
 
