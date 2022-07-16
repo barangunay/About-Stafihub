@@ -17,7 +17,7 @@ sudo su
 
 # go to root directory:
 ```
-#cd /root
+cd /root
 ```
 
 # we are doing a system update:
