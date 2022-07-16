@@ -16,6 +16,7 @@ sudo su
 ```
 
 # go to root directory:
+```
 #cd /root
 ```
 
