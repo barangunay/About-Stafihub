@@ -106,7 +106,7 @@ stafihubd keys add walletName --recover
 
 # For Faucet after you get the wallet done: https://discord.gg/tz6USZWX
 
-# Match command, when you enter this command, it should write false at the bottom, for example:
+# Match command, when you enter this command, it should write false at the bottom
 ```
 stafihubd status 2>&1 | jq .SyncInfo
 ```
