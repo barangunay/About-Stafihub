@@ -5,7 +5,7 @@ what is stafihub?
 StaFiHub is a parallel chain developed by StaFi based on the Cosmos SDK. It has the follow.It will be an application chain serving the Cosmos Eco Staking Derivatives.The IBC cross-chain protocol will be supported. The token assets of the Cosmos ecosystem can be cross-chained to StaFiHub through the IBC protocol, and the rToken assets on the StaFiHub can all circulate in the Cosmos ecosystem through the IBC protocol.Cosmos ECO tokens can directly mint out StaFiHub-based staking derivatives using the Keplr wallet and the corresponding PoS Token.The StaFi team will build a cross-chain bridge between StaFi Chain and StaFiHub to support the exchange of rTokens between the two chains.
 
 
-# System Requirements: k
+# System Requirements: 
 ```
 8GB RAM
 200 GB SSD
@@ -15,9 +15,8 @@ StaFiHub is a parallel chain developed by StaFi based on the Cosmos SDK. It has 
 ```
 #sudo su
 ```
-
-# go to root directory:
 ```
+# go to root directory:
 #cd /root
 ```
 
