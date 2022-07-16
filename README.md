@@ -13,22 +13,22 @@ StaFiHub is a parallel chain developed by StaFi based on the Cosmos SDK. It has 
 ```
 ```
 ```
-sudo su
+#sudo su
 ```
 
 # go to root directory:
 ```
-cd /root
+#cd /root
 ```
 
 # we are doing a system update:
 ```
-sudo apt update && sudo apt upgrade -y
+#sudo apt update && sudo apt upgrade -y
 ```
 
 # we are installing the library:
 ```
-sudo apt install make clang pkg-config libssl-dev build-essential git jq ncdu bsdmainutils -y < "/dev/null"
+#sudo apt install make clang pkg-config libssl-dev build-essential git jq ncdu bsdmainutils -y < "/dev/null"
 ```
 
 # we are installing go:
